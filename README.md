@@ -1,6 +1,3 @@
-# studying-project
-Just a project for beginners in programming
-
 # First Week, Supplementary Content
 #### Bom, como eu disse, passaria alguns conteúdos pra vocês estudarem durante à semana (tempo entre uma imersão e outra), eu pensei em passar alguns conteúdos de html e javascript, porém, selecionei um conteúdo que me foi recomendado, ele sanitiza um pouco de tudo que precisamos. Apesar de extenso, é apenas um vídeo cujo qual vocês podem ver de pouco a pouco.
 
