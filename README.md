@@ -10,6 +10,7 @@ Just a project for beginners in programming
 https://www.youtube.com/watch?v=Ed7KImqHYCs
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### Diferente do conteúdo acima, os vídeos abaixo são apenas para serem ouvidos e entendidos, semelhante a um podcast (caso prefiram, podem fazer anotações). Vocês podem consumir os conteúdos listados abaixo enquanto efetuam outras tarefas, economizando o tempo de vocês.
 
 ## Teórico
 
