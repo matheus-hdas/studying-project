@@ -7,7 +7,7 @@ Bom, como eu disse, passaria alguns conteúdos pra vocês estudarem durante à s
 ### Curso completo para INICIANTES em PROGRAMAÇÃO: Lógica e Algoritmos, HTML, CSS e JavaScript
 https://www.youtube.com/watch?v=Ed7KImqHYCs
 
-Além desse, existem alguns outros vídeos mais extensos, puramente teóricos e comerciais relacionados a programação, esses vocês podem "ouvir" enquanto estão fazendo outras coisas!
+#### Além desse, existem alguns outros vídeos mais extensos, puramente teóricos e comerciais relacionados a programação, esses vocês podem "ouvir" enquanto estão fazendo outras coisas!
 
 ### Conhecimentos Básicos para Iniciantes em Programação | Série "Começando aos 40"
 https://www.youtube.com/watch?v=sx4hAHhO9CY&list=PLdsnXVqbHDUc7htGFobbZoNen3r_wm3ki&index=1
