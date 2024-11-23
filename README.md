@@ -1,5 +1,5 @@
-# First Week, Supplementary Content
-#### Bom, como eu disse, passaria alguns conteúdos pra vocês estudarem durante à semana (tempo entre uma imersão e outra), eu pensei em passar alguns conteúdos de html e javascript, porém, selecionei um conteúdo que me foi recomendado, ele sanitiza um pouco de tudo que precisamos. Apesar de extenso, é apenas um vídeo cujo qual vocês podem ver de pouco a pouco.
+# Supplementary Content
+#### Bom, como eu disse, passaria alguns conteúdos pra vocês estudarem (tempo entre uma imersão e outra), eu pensei em passar alguns conteúdos de html e javascript, portanto, selecionei um conteúdo que me foi recomendado, ele sanitiza um pouco de tudo que precisamos. Apesar de extenso, é apenas um vídeo cujo qual vocês podem ver de pouco a pouco.
 
 ## Prático
 
@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=Ed7KImqHYCs
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Diferente do conteúdo acima, os vídeos abaixo são apenas para serem ouvidos e entendidos, semelhante a um podcast (caso prefiram, podem fazer anotações). Vocês podem consumir os conteúdos listados abaixo enquanto efetuam outras tarefas, economizando o tempo de vocês.
 
-## Teórico
+## Conhecimentos Básicos
 
 ### Conhecimentos Básicos para Iniciantes em Programação | Série "Começando aos 40"
 https://www.youtube.com/watch?v=sx4hAHhO9CY&list=PLdsnXVqbHDUc7htGFobbZoNen3r_wm3ki&index=1
@@ -22,3 +22,11 @@ https://www.youtube.com/watch?v=Qjk-cSW-jk4&list=PLdsnXVqbHDUc7htGFobbZoNen3r_wm
 
 ### Entendendo Back-End para Iniciantes em Programação (Parte 2) | Série "Começando aos 40"
 https://www.youtube.com/watch?v=N6vgZr1k03g&list=PLdsnXVqbHDUc7htGFobbZoNen3r_wm3ki&index=4
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Introdução a Computação
+### O Guia +Hardcore de Introdução à COMPUTAÇÃO
+https://www.youtube.com/watch?v=8G80nuEyDN4
+
+### Qual a REAL diferença entre Arquivos Binário e Texto?? 🤔
+https://www.youtube.com/watch?v=oSCVb4Ts-G4
